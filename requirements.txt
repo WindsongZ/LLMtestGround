@@ -1,0 +1,7 @@
+numpy
+altair
+pandas
+streamlit
+dashscope
+streamlit_option_menu
+gradio
